@@ -1,0 +1,1 @@
+gcloud run deploy el-cart --port 8080 --allow-unauthenticated --max-instances=5 --region=us-central1 --source=. --project=afridek-354500
